@@ -1,5 +1,4 @@
-# Database of Cricketers
-# Requirements Specification Document
+# The Cricketers Profile Application
 
 ## **1. Introduction**
 
